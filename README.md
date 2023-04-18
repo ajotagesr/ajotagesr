@@ -24,12 +24,12 @@
 <br>
 
 <h3>Statistical Data :</h3>
-
+<!--
 [![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr)](https://github.com/ajotagesr)
-
 ![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr&count_private=true)
-
 ![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr&show_icons=true)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr)](https://github.com/ajotagesr/github-readme-stats)
 
 <p>
   <img align="center"
