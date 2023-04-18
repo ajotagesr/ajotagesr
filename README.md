@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey, hey, hola 👋</h1>
 <h3 align="center">que</h3>
-
+<!--
 ### 👉 Programming languages
 
 <p align="left"> 
@@ -18,10 +18,10 @@
   </a>
 </p>
 
-<!--
+
 ### 👉 Frameworks
 django, vue, etc
--->
+
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
@@ -52,5 +52,4 @@ django, vue, etc
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
     &emsp;
 </p>
-
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+-->
