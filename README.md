@@ -29,9 +29,9 @@
 ![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 ![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/ajotagesr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr&langs_count=8)](https://github.com/ajotagesr/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ajotagesr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr&layout=compact)](https://github.com/ajotagesr/github-readme-stats)
 
 
 
