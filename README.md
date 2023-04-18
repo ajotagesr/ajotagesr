@@ -25,14 +25,12 @@
 
 <h3>Statistical Data :</h3>
 <!--
-[![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr)](https://github.com/ajotagesr)-->
-![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr&count_private=true)
-![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr&show_icons=true)
+[![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr)](https://github.com/ajotagesr)
+-->
 
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr&langs_count=8)](https://github.com/ajotagesr/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr&layout=compact)](https://github.com/ajotagesr/github-readme-stats)
-
+<br>
 
 
 <p>
