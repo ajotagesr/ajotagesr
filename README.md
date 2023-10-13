@@ -13,7 +13,6 @@
   <a href="https://python.org/">
     <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
   </a>
-  &emsp;
   <a href="https://www.java.com/en/">
     <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   </a>
