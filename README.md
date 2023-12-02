@@ -12,6 +12,7 @@
 
 <p align="left"> 
   &emsp;
+  
   <a href="https://python.org/"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.java.com/en/"><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -24,6 +25,7 @@
   <a><img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"></a>
   <a href="https://www.github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
 </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
