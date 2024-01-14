@@ -1,9 +1,6 @@
 <!--
 **ajotagesr/ajotagesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--a>
-  <img src="" width="40" height="40"/>
-</a-->
+
 <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/adrián-jiménez-gamo-1b255128b/">Adrián</a> 👋</h1>
 <h3 align="center">Computer Science student at <a href="https://www.uam.es/uam/inicio">UAM</a></h3>
 
@@ -29,7 +26,7 @@
   <a href="#" rel="nofollow"><img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="40" height="40"></a>
 </p>
 
-<!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:50%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr&layout=compact&theme=gotham&langs_count=9&hide=html,TeX"/>
 </div>
+-->
