@@ -1,6 +1,6 @@
 <!--
 **ajotagesr/ajotagesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/adrián-jiménez-gamo-1b255128b/">Adrián</a> 👋</h1>
 <h3 align="center">Computer Science student at <a href="https://www.uam.es/uam/inicio">UAM</a></h3>
 
@@ -29,4 +29,4 @@
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:50%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr&layout=compact&theme=gotham&langs_count=9&hide=html,TeX"/>
 </div>
--->
+
