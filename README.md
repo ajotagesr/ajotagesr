@@ -28,6 +28,10 @@
   <a href="#" rel="nofollow"><img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="40" height="40"></a>
 </p>
 
+![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:50%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr&layout=compact&theme=gotham&langs_count=9&hide=html,TeX"/>
 </div-->
