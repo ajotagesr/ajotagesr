@@ -1,11 +1,10 @@
 <!--
 **ajotagesr/ajotagesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/adrián-jiménez-gamo-1b255128b/">Adrián</a> 👋</h1>
 <h3 align="center">Computer Science student at <a href="https://www.uam.es/uam/inicio">UAM</a></h3>
 
-
-### 👉 Programming languages and tools
+### 👉 Programming languages and tools-->
 
 <p align="left"> 
   &emsp;
