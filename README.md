@@ -29,7 +29,7 @@
 </p>
 
 ![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr)](https://github.com/ajotagesr/github-readme-stats)
 
 
 <!--div style="display:grid;align-items:center;justify-content:center">
