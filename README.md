@@ -30,9 +30,10 @@
 
 <!--![ajotagesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotagesr&show_icons=true&theme=radical)-->
 ![ajotagesr's GitHub stats](https://github-readme-stats-ajotagesrs-projects.vercel.app/api?username=ajotagesr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr)](https://github.com/ajotagesr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr)]
+[![Top Langs](https://github-readme-stats-ajotagesrs-projects.vercel.app/api/top-langs/?username=ajotagesr)]
 
-
+https://github-readme-stats-ajotagesrs-projects.vercel.app/
 <!--div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:50%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajotagesr&layout=compact&theme=gotham&langs_count=9&hide=html,TeX"/>
 </div-->
